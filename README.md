@@ -3,20 +3,25 @@ This is a sample README.md file you can use to update your project. New project 
 # npsp-datacloud-kit
 Creating a Data Cloud kit for NPSP use cases
 
-# Project Overview
+1. 
+2. 
+3. 
+   
+
+
+# Project Overview  : 
 ## Vision & Goals
-Please replace with your projects vision.
-* Goal 1
-* Goal 2
+* Goal 1 To create a Data Kit to be able to Utilized by the NPSP Org 
+* Goal 2 
 
 ## Project Vertical
-Please replace with Nonprofit, Education, or Other (if Other, explain further)
+The Non-Profit Organization 
 
 ## Trailblazer Group or Slack Channel Link (access required)
 Please replace with the URL for your Trailblazer Community group and/or Slack channel issued by the Commons program team.
 
 ## How to Contribute:
-- Way 1.
+- Way 1. 
 - Way 2. 
 - Way 3. 
 
